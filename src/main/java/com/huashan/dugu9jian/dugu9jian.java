@@ -5,5 +5,8 @@ public class dugu9jian {
         System.out.println("dugu9jian hao");
         System.out.println("dugu9jian hao");
         System.out.println("dugu9jian hao");
+        System.out.println("dugu9jian hao");
+        System.out.println("dugu9jian hao");
+        System.out.println("dugu9jian hao");
     }
 }
